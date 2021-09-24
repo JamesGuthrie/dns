@@ -1,0 +1,12 @@
+gth.li {
+    file gth.li.zone
+    log
+}
+pinto.app {
+    file pinto.app.zone
+    log
+}
+jamesguthrie.ch {
+    file jamesguthrie.ch.zone
+    log
+}
