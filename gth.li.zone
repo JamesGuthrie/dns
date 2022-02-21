@@ -13,7 +13,7 @@ $TTL 86400
 ns1	IN	A	213.188.208.5
 	IN	AAAA	2a09:8280:1:9f8:b4a:f460:bfdb:21a4
 ns2	IN	A	213.188.209.57
-	IN	AAAA	:8280:1:a1f3:a957:bd27:d3a2:d9b5
+	IN	AAAA	::8280:1:a1f3:a957:bd27:d3a2:d9b5
 ;
 @	3600	IN	MX	10 in1-smtp.messagingengine.com.
 	3600	IN	MX	20 in2-smtp.messagingengine.com.
