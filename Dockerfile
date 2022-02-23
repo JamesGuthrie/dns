@@ -4,4 +4,5 @@ COPY Corefile /
 COPY gth.li.zone /
 COPY pinto.app.zone /
 COPY jamesguthrie.ch.zone /
+COPY isaandjames.ch.zone /
 
