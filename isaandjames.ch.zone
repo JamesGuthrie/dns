@@ -18,5 +18,8 @@ ns2	IN	A	213.188.209.57
 ;
 @	60	IN	A	66.51.121.74
 	60	IN	AAAA	2a09:8280:1::6:224f
+www	60	IN	A	66.51.121.74
+	60	IN	AAAA	2a09:8280:1::6:224f
 _acme-challenge	IN	CNAME	isaandjames.ch.dwo6j.flydns.net.
+_acme-challenge.www.isaandjames.ch.	IN	CNAME	www.isaandjames.ch.dwo6j.flydns.net.
 
