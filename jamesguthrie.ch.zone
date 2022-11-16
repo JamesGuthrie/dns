@@ -10,10 +10,8 @@ $TTL 86400
 ;
 	IN	NS	ns1.jamesguthrie.ch.
 	IN	NS	ns2.jamesguthrie.ch.
-ns1	IN	A	213.188.208.5
-	IN	AAAA	2a09:8280:1:9f8:b4a:f460:bfdb:21a4
-ns2	IN	A	213.188.209.57
-	IN	AAAA	2a09:8280:1:a1f3:a957:bd27:d3a2:d9b5
+ns1	IN	A	137.66.40.4
+ns2	IN	A	137.66.40.4
 ;
 ;
 @	60	IN	A	213.188.209.0
