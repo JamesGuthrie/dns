@@ -10,6 +10,10 @@ jamesguthrie.ch {
     file jamesguthrie.ch.zone
     log
 }
+guthrie.ch {
+    file guthrie.ch.zone
+    log
+}
 isaandjames.ch {
     file isaandjames.ch.zone
     log
